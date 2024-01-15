@@ -18,3 +18,18 @@ Para instalar y ejecutar este proyecto en tu máquina local, sigue estos pasos:
     ```bash
     git clone https://github.com/metralleta/cd-react-Ignacio-Molina.git
     ```
+2. **Instala las dependencias**
+    ```bash
+    cd cd-react-Ignacio-Molina
+    npm install
+    ```
+3. **Ejecuta la aplicación**
+    ```bash
+    npm run dev
+    ```
+
+Esto iniciará el servidor de desarrollo. Abre http://localhost:3000 para ver la aplicación en el navegador.
+
+## Licencia
+
+Este proyecto está bajo una licencia de uso libre. Puedes utilizar y modificar el código como desees.
